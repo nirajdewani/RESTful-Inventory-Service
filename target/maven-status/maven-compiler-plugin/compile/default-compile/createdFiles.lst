@@ -1,0 +1,3 @@
+inventory\entities\Product.class
+inventory\services\rest\ApplicationConfig.class
+inventory\services\rest\ProductRestService.class
